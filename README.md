@@ -3,10 +3,6 @@
 ### Here I have uploaded my Power BI sales insights project. If you want to practice it just download or clone it. Thank you :)
 <br/>
 
-# This Project Video Link:
-
-https://www.linkedin.com/posts/tuhin95_dataanalysis-python-powerbi-activity-6720264453604159488-3BkF
-<br/>
 #
 
 ## Power BI User Interface: (Whole Years Report)
