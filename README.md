@@ -6,10 +6,11 @@
 #
 
 ## Power BI User Interface: (Whole Years Report)
-![1](https://user-images.githubusercontent.com/50451175/92099294-ebb8da80-ee0c-11ea-942d-7603fdabe845.PNG)
+![Screenshot 2022-12-10 182228](https://user-images.githubusercontent.com/91974950/206856187-c65889a5-8f44-4a22-95cb-171bfc3bc5eb.png)
 
-## Power BI User Interface: (Specific Year 2019 Report)
-![2](https://user-images.githubusercontent.com/50451175/92147168-4b36da80-ee4d-11ea-8a95-6078c4929e81.PNG)
 
-## Power BI User Interface: (Specific Month Sep 19 Report)
-![3](https://user-images.githubusercontent.com/50451175/92147173-4d009e00-ee4d-11ea-9505-1b264d32e639.PNG)
+## Power BI User Interface: (Specific Year 2015 Report)
+![Screenshot 2022-12-10 182342](https://user-images.githubusercontent.com/91974950/206856205-6265a29c-558e-4d4f-9718-4cdf7ba41ec9.png)
+
+
+
